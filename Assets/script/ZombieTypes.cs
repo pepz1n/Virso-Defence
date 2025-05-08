@@ -1,17 +1,40 @@
 using UnityEngine;
 
+#if UNITY_EDITOR
+using UnityEditor.Animations;
+#endif
+
 [CreateAssetMenu(fileName = "New ZombieType", menuName = "Zombie")]
 public class ZombieTypes : ScriptableObject
 {
-    public int health;
-    public float speed;
+    public int health;               
+    public float speed;             
+    public int damage;               
+    public float range = 0.5f;      
+    public float eatCooldown = 1f;   
 
-    public int damage;
+    public Sprite sprite;           
+    public Sprite DeathSprite;       
 
-    public float range = .5f;
-    public float eatCooldown = 1f;
+    // Use RuntimeAnimatorController for runtime.
+    public RuntimeAnimatorController animator;       
 
-    public Sprite sprite;
+    public string walkAnimation = "Walk"; 
+    public string attackAnimation = "Attack";
+    public string deathAnimation = "Die";
 
-    public Sprite DeathSprite;
+    public void PlayWalkAnimation(Animator animator)
+    {
+        animator.SetBool(walkAnimation, true);  
+    }
+
+    public void StopWalkAnimation(Animator animator)
+    {
+        animator.SetBool(walkAnimation, false); 
+    }
+
+    public void PlayAttackAnimation(Animator animator)
+    {
+        animator.SetTrigger(attackAnimation);   
+    }
 }

@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: -3116888251631044665}
   - component: {fileID: -7370620239049113281}
   - component: {fileID: 3929784834450946681}
+  - component: {fileID: 184742915243964823}
   m_Layer: 9
   m_Name: SunFlower
   m_TagString: Untagged
@@ -79,7 +80,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 3675247853582719284, guid: 832f294f58ce7c4409a15d5fbfb0f3f1, type: 3}
+  m_Sprite: {fileID: -5014926367304416601, guid: 200b8bbb82b717e4782a397d9c397dd0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -133,7 +134,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -141,13 +142,13 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.04, y: 1.16}
+    oldSize: {x: 0.72333336, y: 1.5366666}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.04, y: 1.16}
+  m_Size: {x: 0.72333336, y: 1.5366666}
   m_EdgeRadius: 0
 --- !u!114 &3929784834450946681
 MonoBehaviour:
@@ -163,3 +164,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sunObject: {fileID: 911740517025656790, guid: 718b18d064434e748953def092dd6c47, type: 3}
   cooldown: 10
+--- !u!95 &184742915243964823
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8480177265575051149}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 0b8802de02527474b8cc9616caa220d7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0

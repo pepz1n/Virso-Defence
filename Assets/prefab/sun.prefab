@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 711484436490876449}
   - component: {fileID: 3902598673869996800}
   - component: {fileID: 4155810950440321815}
-  m_Layer: 8
+  m_Layer: 10
   m_Name: sun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -101,6 +101,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4a215c52df1b1840a25185efc9b484e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dropToYPos: 0
 --- !u!61 &4155810950440321815
 BoxCollider2D:
   m_ObjectHideFlags: 0

@@ -1,0 +1,830 @@
+fileFormatVersion: 2
+guid: 40a9fd517a273f1478bd3b48b350d382
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8714659910878373313
+    second: tchuco-atacar_0
+  - first:
+      213: -3390401764147931025
+    second: tchuco-atacar_1
+  - first:
+      213: 7661536076173092600
+    second: tchuco-atacar_2
+  - first:
+      213: -6649594386414517005
+    second: tchuco-atacar_3
+  - first:
+      213: -2543850781364761940
+    second: tchuco-atacar_4
+  - first:
+      213: -1227455098403511010
+    second: tchuco-atacar_5
+  - first:
+      213: 2079784523169951622
+    second: tchuco-atacar_6
+  - first:
+      213: 2962013747062776387
+    second: tchuco-atacar_7
+  - first:
+      213: 2981530380733214639
+    second: tchuco-atacar_8
+  - first:
+      213: -4570130115083045598
+    second: tchuco-atacar_9
+  - first:
+      213: -8338294155959514322
+    second: tchuco-atacar_10
+  - first:
+      213: -4023188372894814679
+    second: tchuco-atacar_11
+  - first:
+      213: 4779243639937877599
+    second: tchuco-atacar_12
+  - first:
+      213: -681174525898734813
+    second: tchuco-atacar_13
+  - first:
+      213: 887938990589009664
+    second: tchuco-atacar_14
+  - first:
+      213: -7649484124997743802
+    second: tchuco-atacar_15
+  - first:
+      213: 832262686308977015
+    second: tchuco-atacar_16
+  - first:
+      213: -3036760447960030193
+    second: tchuco-atacar_17
+  - first:
+      213: 8819429843323117564
+    second: tchuco-atacar_18
+  - first:
+      213: -6134554473589552032
+    second: tchuco-atacar_19
+  - first:
+      213: 7176438641471229137
+    second: tchuco-atacar_20
+  - first:
+      213: -3222562046075626833
+    second: tchuco-atacar_21
+  - first:
+      213: -7573297470695105852
+    second: tchuco-atacar_22
+  - first:
+      213: -4044652741631202736
+    second: tchuco-atacar_23
+  - first:
+      213: 4868382753250068585
+    second: tchuco-atacar_24
+  - first:
+      213: -7437812832341409091
+    second: tchuco-atacar_25
+  - first:
+      213: 2895139023766035282
+    second: tchuco-atacar_26
+  - first:
+      213: -8138506043801028272
+    second: tchuco-atacar_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tchuco-atacar_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 185
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ad1c9bbfe4f0780800000000000000
+      internalID: -8714659910878373313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-atacar_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 185
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68da120f8fd2f0d0800000000000000
+      internalID: -3390401764147931025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-atacar_2
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 188
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6232ef77e335a60800000000000000
+      internalID: 7661536076173092600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-atacar_3
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 188
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4c459f225e7b3a0800000000000000
+      internalID: -6649594386414517005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-atacar_4
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 179
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa4727313d62bcd0800000000000000
+      internalID: -2543850781364761940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-atacar_5
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 179
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15aae1671437fee0800000000000000
+      internalID: -1227455098403511010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-atacar_6
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 182
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f66e03101ecdc10800000000000000
+      internalID: 2079784523169951622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-atacar_7
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 182
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342208d3fcf2b1920800000000000000
+      internalID: 2962013747062776387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-atacar_8
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 11
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf63ae9516806920800000000000000
+      internalID: 2981530380733214639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-atacar_9
+      rect:
+        serializedVersion: 2
+        x: 3980
+        y: 11
+        width: 116
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225f829bfd2a390c0800000000000000
+      internalID: -4570130115083045598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-atacar_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 158
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b4151b4ad684c80800000000000000
+      internalID: -8338294155959514322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-atacar_11
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 11
+        width: 131
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e6f199d73ca28c0800000000000000
+      internalID: -4023188372894814679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-atacar_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 158
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56ca8dd4c8435240800000000000000
+      internalID: 4779243639937877599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-atacar_13
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 164
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323c2c1b06bfb86f0800000000000000
+      internalID: -681174525898734813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-atacar_14
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 164
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fd644bec7925c00800000000000000
+      internalID: 887938990589009664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-atacar_15
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 167
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b058e87b297d590800000000000000
+      internalID: -7649484124997743802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-atacar_16
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 167
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7794241f08acc8b00800000000000000
+      internalID: 832262686308977015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-atacar_17
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 11
+        width: 146
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04e26746724bd5d0800000000000000
+      internalID: -3036760447960030193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-atacar_18
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 11
+        width: 149
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffd0c417b8e46a70800000000000000
+      internalID: 8819429843323117564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-atacar_19
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 11
+        width: 149
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c4962653faddaa0800000000000000
+      internalID: -6134554473589552032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-atacar_20
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 11
+        width: 155
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc87490ce4d79360800000000000000
+      internalID: 7176438641471229137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-atacar_21
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 11
+        width: 158
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa910994e82743d0800000000000000
+      internalID: -3222562046075626833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-atacar_22
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 11
+        width: 158
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca9ad0531e36e690800000000000000
+      internalID: -7573297470695105852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-atacar_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 11
+        width: 158
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a234fc2c18ed7c0800000000000000
+      internalID: -4044652741631202736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-atacar_24
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 11
+        width: 158
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968cb1ef158ff8340800000000000000
+      internalID: 4868382753250068585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-atacar_25
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 11
+        width: 146
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2c27ed2a497c890800000000000000
+      internalID: -7437812832341409091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-atacar_26
+      rect:
+        serializedVersion: 2
+        x: 3077
+        y: 11
+        width: 149
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b12fe5a999d2820800000000000000
+      internalID: 2895139023766035282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-atacar_27
+      rect:
+        serializedVersion: 2
+        x: 3377
+        y: 11
+        width: 149
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059bed07fd73e0f80800000000000000
+      internalID: -8138506043801028272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

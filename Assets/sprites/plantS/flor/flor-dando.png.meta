@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 52afd69fbd8512e48a48c2d4284498f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5810645480205007679
+    second: flor-dando_0
+  - first:
+      213: 2028083288305565541
+    second: flor-dando_1
+  - first:
+      213: -4916424417322498809
+    second: flor-dando_2
+  - first:
+      213: 44982948140477475
+    second: flor-dando_3
+  - first:
+      213: 8162093543318944057
+    second: flor-dando_4
+  - first:
+      213: -3573942572198033311
+    second: flor-dando_5
+  - first:
+      213: 3032356149086689457
+    second: flor-dando_6
+  - first:
+      213: -8424075095957106431
+    second: flor-dando_7
+  - first:
+      213: 8048632299431126969
+    second: flor-dando_8
+  - first:
+      213: 1111395609798462856
+    second: flor-dando_9
+  - first:
+      213: 3522156320066871765
+    second: flor-dando_10
+  - first:
+      213: -1821809603246854697
+    second: flor-dando_11
+  - first:
+      213: 7084198261455615630
+    second: flor-dando_12
+  - first:
+      213: -3366856316687125364
+    second: flor-dando_13
+  - first:
+      213: -5725818710053281507
+    second: flor-dando_14
+  - first:
+      213: -848801534776377356
+    second: flor-dando_15
+  - first:
+      213: 9099412647835055122
+    second: flor-dando_16
+  - first:
+      213: 7875717199141644770
+    second: flor-dando_17
+  - first:
+      213: 2042337890423797875
+    second: flor-dando_18
+  - first:
+      213: 5266348454622891967
+    second: flor-dando_19
+  - first:
+      213: -2935220727795239793
+    second: flor-dando_20
+  - first:
+      213: 2257414373553887752
+    second: flor-dando_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flor-dando_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 217
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4c6acc8b07c5fa0800000000000000
+      internalID: -5810645480205007679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor-dando_1
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 0
+        width: 217
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ffb566103352c10800000000000000
+      internalID: 2028083288305565541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor-dando_2
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 0
+        width: 216
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7058f607a0a55cbb0800000000000000
+      internalID: -4916424417322498809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor-dando_3
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 0
+        width: 216
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cecd4c0cfcf9000800000000000000
+      internalID: 44982948140477475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor-dando_4
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 0
+        width: 217
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939f80145d4954170800000000000000
+      internalID: 8162093543318944057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor-dando_5
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 0
+        width: 216
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1688d788a2ec66ec0800000000000000
+      internalID: -3573942572198033311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor-dando_6
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 0
+        width: 215
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b898caf9d7151a20800000000000000
+      internalID: 3032356149086689457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor-dando_7
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 0
+        width: 216
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1011348355ca71b80800000000000000
+      internalID: -8424075095957106431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor-dando_8
+      rect:
+        serializedVersion: 2
+        x: 2933
+        y: 0
+        width: 214
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7e35fce6c72bf60800000000000000
+      internalID: 8048632299431126969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor-dando_9
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 0
+        width: 212
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d47fe2b687c6f00800000000000000
+      internalID: 1111395609798462856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor-dando_10
+      rect:
+        serializedVersion: 2
+        x: 3646
+        y: 0
+        width: 212
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1abfc038631e030800000000000000
+      internalID: 3522156320066871765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor-dando_11
+      rect:
+        serializedVersion: 2
+        x: 3996
+        y: 0
+        width: 218
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd631671d1a7b6e0800000000000000
+      internalID: -1821809603246854697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor-dando_12
+      rect:
+        serializedVersion: 2
+        x: 4342
+        y: 0
+        width: 232
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86708cf8c0205260800000000000000
+      internalID: 7084198261455615630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor-dando_13
+      rect:
+        serializedVersion: 2
+        x: 4677
+        y: 0
+        width: 272
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c847512b4068641d0800000000000000
+      internalID: -3366856316687125364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor-dando_14
+      rect:
+        serializedVersion: 2
+        x: 5025
+        y: 0
+        width: 285
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d112dfa483ec980b0800000000000000
+      internalID: -5725818710053281507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor-dando_15
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 0
+        width: 296
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fff8d250837834f0800000000000000
+      internalID: -848801534776377356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor-dando_16
+      rect:
+        serializedVersion: 2
+        x: 5733
+        y: 0
+        width: 297
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214b7eaa79b974e70800000000000000
+      internalID: 9099412647835055122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor-dando_17
+      rect:
+        serializedVersion: 2
+        x: 6096
+        y: 0
+        width: 291
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9a546b01b2c4d60800000000000000
+      internalID: 7875717199141644770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor-dando_18
+      rect:
+        serializedVersion: 2
+        x: 6457
+        y: 0
+        width: 285
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378f7069d77d75c10800000000000000
+      internalID: 2042337890423797875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor-dando_19
+      rect:
+        serializedVersion: 2
+        x: 6818
+        y: 0
+        width: 274
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf89356404d51940800000000000000
+      internalID: 5266348454622891967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor-dando_20
+      rect:
+        serializedVersion: 2
+        x: 7180
+        y: 0
+        width: 258
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84b66eac400447d0800000000000000
+      internalID: -2935220727795239793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor-dando_21
+      rect:
+        serializedVersion: 2
+        x: 7538
+        y: 0
+        width: 248
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a5a869962f35f10800000000000000
+      internalID: 2257414373553887752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      flor-dando_0: -5810645480205007679
+      flor-dando_1: 2028083288305565541
+      flor-dando_10: 3522156320066871765
+      flor-dando_11: -1821809603246854697
+      flor-dando_12: 7084198261455615630
+      flor-dando_13: -3366856316687125364
+      flor-dando_14: -5725818710053281507
+      flor-dando_15: -848801534776377356
+      flor-dando_16: 9099412647835055122
+      flor-dando_17: 7875717199141644770
+      flor-dando_18: 2042337890423797875
+      flor-dando_19: 5266348454622891967
+      flor-dando_2: -4916424417322498809
+      flor-dando_20: -2935220727795239793
+      flor-dando_21: 2257414373553887752
+      flor-dando_3: 44982948140477475
+      flor-dando_4: 8162093543318944057
+      flor-dando_5: -3573942572198033311
+      flor-dando_6: 3032356149086689457
+      flor-dando_7: -8424075095957106431
+      flor-dando_8: 8048632299431126969
+      flor-dando_9: 1111395609798462856
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

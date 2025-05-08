@@ -12,10 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5695cd3098822744dac5de83130d2930, type: 3}
   m_Name: Bucket
   m_EditorClassIdentifier: 
-  health: 30
-  speed: 0.005
-  damage: 2
+  health: 24
+  speed: 0.1
+  damage: 4
   range: 0.5
   eatCooldown: 1
-  sprite: {fileID: 7151955249762826636, guid: 00b3d46dbee6e6541b16289913730fc9, type: 3}
-  DeathSprite: {fileID: 386325449022280302, guid: b135bb9578eb3a64daa50680ee85e3a6, type: 3}
+  sprite: {fileID: 5009614247098632969, guid: 8207329d6b3b043458eb61383cc0df48, type: 3}
+  DeathSprite: {fileID: 5009614247098632969, guid: 8207329d6b3b043458eb61383cc0df48, type: 3}
+  animator: {fileID: 9100000, guid: fcf1a5b5d52248443bfcb1fc006bb1ce, type: 2}
+  walkAnimation: isWalking
+  attackAnimation: Attack
+  deathAnimation: Die

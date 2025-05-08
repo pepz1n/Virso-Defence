@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 92bb028979bbea840a2a4c5495fd34d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6119665713875815744
+    second: gotica-atacar_0
+  - first:
+      213: 4912723220163634312
+    second: gotica-atacar_1
+  - first:
+      213: 2040056636144086863
+    second: gotica-atacar_2
+  - first:
+      213: -5212321263483438183
+    second: gotica-atacar_3
+  - first:
+      213: -8768610537197904156
+    second: gotica-atacar_4
+  - first:
+      213: 6724566379122367092
+    second: gotica-atacar_5
+  - first:
+      213: 4052257356967910326
+    second: gotica-atacar_6
+  - first:
+      213: 5930584859248142604
+    second: gotica-atacar_7
+  - first:
+      213: -1510006973814732808
+    second: gotica-atacar_8
+  - first:
+      213: -6534208393868201682
+    second: gotica-atacar_9
+  - first:
+      213: -1448217984442525784
+    second: gotica-atacar_10
+  - first:
+      213: -9168502266310042486
+    second: gotica-atacar_11
+  - first:
+      213: -7208297793385758512
+    second: gotica-atacar_12
+  - first:
+      213: 2036803975237980300
+    second: gotica-atacar_13
+  - first:
+      213: 3653677062368808832
+    second: gotica-atacar_14
+  - first:
+      213: -2748022619880449507
+    second: gotica-atacar_15
+  - first:
+      213: 1378464829019641136
+    second: gotica-atacar_16
+  - first:
+      213: -3669657035833770211
+    second: gotica-atacar_17
+  - first:
+      213: 1011612523170712461
+    second: gotica-atacar_18
+  - first:
+      213: -2070856675544600898
+    second: gotica-atacar_19
+  - first:
+      213: 6254577374438590078
+    second: gotica-atacar_20
+  - first:
+      213: 7706335533212065114
+    second: gotica-atacar_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gotica-atacar_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1414
+        width: 237
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d84bb1b8b6de450800000000000000
+      internalID: 6119665713875815744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotica-atacar_1
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1411
+        width: 287
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884aaa17dbf7d2440800000000000000
+      internalID: 4912723220163634312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotica-atacar_2
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1384
+        width: 257
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4feb0fa3bcbf4c10800000000000000
+      internalID: 2040056636144086863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotica-atacar_3
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1404
+        width: 187
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bbada4d6d1aa7b0800000000000000
+      internalID: -5212321263483438183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotica-atacar_4
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1409
+        width: 207
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee529cac23af4680800000000000000
+      internalID: -8768610537197904156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotica-atacar_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 989
+        width: 237
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a9f185e75725d50800000000000000
+      internalID: 6724566379122367092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotica-atacar_6
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 989
+        width: 302
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb198ca8928c3830800000000000000
+      internalID: 4052257356967910326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotica-atacar_7
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 989
+        width: 177
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09abc5028bad4250800000000000000
+      internalID: 5930584859248142604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotica-atacar_8
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1154
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7096d58a06b0be0800000000000000
+      internalID: -1510006973814732808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotica-atacar_9
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 989
+        width: 157
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e213c13e514d155a0800000000000000
+      internalID: -6534208393868201682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotica-atacar_10
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 989
+        width: 172
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a798f78a65e6ebe0800000000000000
+      internalID: -1448217984442525784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotica-atacar_11
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1079
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cd93ef3cfe2c080800000000000000
+      internalID: -9168502266310042486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotica-atacar_12
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1054
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0820e195bf6fb90800000000000000
+      internalID: -7208297793385758512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotica-atacar_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 539
+        width: 242
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80d92d8c6e244c10800000000000000
+      internalID: 2036803975237980300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotica-atacar_14
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 504
+        width: 192
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f4c722ee774b230800000000000000
+      internalID: 3653677062368808832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotica-atacar_15
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 489
+        width: 212
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a9943acff0dd9d0800000000000000
+      internalID: -2748022619880449507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotica-atacar_16
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 504
+        width: 297
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035d515657a412310800000000000000
+      internalID: 1378464829019641136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotica-atacar_17
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 539
+        width: 402
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f7d9b5e52c21dc0800000000000000
+      internalID: -3669657035833770211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotica-atacar_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 89
+        width: 282
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b4de5ea38f90e00800000000000000
+      internalID: 1011612523170712461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotica-atacar_19
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 254
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebeea6153d6d243e0800000000000000
+      internalID: -2070856675544600898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotica-atacar_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 179
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e768b9fdbf8bcc650800000000000000
+      internalID: 6254577374438590078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotica-atacar_21
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 154
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d5319665762fa60800000000000000
+      internalID: 7706335533212065114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1f0d0aa2c529eaa47bc3703e6f604077
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gotica-atacar_0: 6119665713875815744
+      gotica-atacar_1: 4912723220163634312
+      gotica-atacar_10: -1448217984442525784
+      gotica-atacar_11: -9168502266310042486
+      gotica-atacar_12: -7208297793385758512
+      gotica-atacar_13: 2036803975237980300
+      gotica-atacar_14: 3653677062368808832
+      gotica-atacar_15: -2748022619880449507
+      gotica-atacar_16: 1378464829019641136
+      gotica-atacar_17: -3669657035833770211
+      gotica-atacar_18: 1011612523170712461
+      gotica-atacar_19: -2070856675544600898
+      gotica-atacar_2: 2040056636144086863
+      gotica-atacar_20: 6254577374438590078
+      gotica-atacar_21: 7706335533212065114
+      gotica-atacar_3: -5212321263483438183
+      gotica-atacar_4: -8768610537197904156
+      gotica-atacar_5: 6724566379122367092
+      gotica-atacar_6: 4052257356967910326
+      gotica-atacar_7: 5930584859248142604
+      gotica-atacar_8: -1510006973814732808
+      gotica-atacar_9: -6534208393868201682
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

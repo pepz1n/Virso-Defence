@@ -13,9 +13,13 @@ MonoBehaviour:
   m_Name: Cone
   m_EditorClassIdentifier: 
   health: 20
-  speed: 0.005
-  damage: 2
+  speed: 0.4
+  damage: 1
   range: 0.5
   eatCooldown: 1
-  sprite: {fileID: 7977170862573690875, guid: 0fe0e60adc6b085419a86ccd9c336b29, type: 3}
-  DeathSprite: {fileID: 386325449022280302, guid: b135bb9578eb3a64daa50680ee85e3a6, type: 3}
+  sprite: {fileID: -8814181664678491577, guid: 7800ea69bfa7eca48a41c9c132e2a275, type: 3}
+  DeathSprite: {fileID: -8814181664678491577, guid: 7800ea69bfa7eca48a41c9c132e2a275, type: 3}
+  animator: {fileID: 9100000, guid: daa8cf2f69ca26045b4158dfde5611e1, type: 2}
+  walkAnimation: isWalking
+  attackAnimation: Attack
+  deathAnimation: Die

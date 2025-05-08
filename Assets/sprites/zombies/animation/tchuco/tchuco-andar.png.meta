@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: c3b874736369b3343858604b03418e26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5841191794644953346
+    second: tchuco-andar_0
+  - first:
+      213: -5622959177922294660
+    second: tchuco-andar_1
+  - first:
+      213: 2552223480874901984
+    second: tchuco-andar_2
+  - first:
+      213: -7899995132711958907
+    second: tchuco-andar_3
+  - first:
+      213: 7218416028452901404
+    second: tchuco-andar_4
+  - first:
+      213: -1649770760839356635
+    second: tchuco-andar_5
+  - first:
+      213: 7854414000946796336
+    second: tchuco-andar_6
+  - first:
+      213: 7185880840039436593
+    second: tchuco-andar_7
+  - first:
+      213: 4005700927329462792
+    second: tchuco-andar_8
+  - first:
+      213: -4587933379411786618
+    second: tchuco-andar_9
+  - first:
+      213: -1206354017294241588
+    second: tchuco-andar_10
+  - first:
+      213: 1681433870070697101
+    second: tchuco-andar_11
+  - first:
+      213: -2622995279521622614
+    second: tchuco-andar_12
+  - first:
+      213: 8139831776434398535
+    second: tchuco-andar_13
+  - first:
+      213: -7365740573094723215
+    second: tchuco-andar_14
+  - first:
+      213: 3509792370193977547
+    second: tchuco-andar_15
+  - first:
+      213: 8050484240190285506
+    second: tchuco-andar_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tchuco-andar_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 185
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2092db04df4101150800000000000000
+      internalID: 5841191794644953346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-andar_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 185
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c4b6d5b6c37f1b0800000000000000
+      internalID: -5622959177922294660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-andar_2
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 188
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1a5fccbb15b6320800000000000000
+      internalID: 2552223480874901984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-andar_3
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 188
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586836368449d5290800000000000000
+      internalID: -7899995132711958907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-andar_4
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 179
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12dbe01227fc2460800000000000000
+      internalID: 7218416028452901404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-andar_5
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 179
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f185fdb36da19e0800000000000000
+      internalID: -1649770760839356635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-andar_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 11
+        width: 200
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037d94d5beb700d60800000000000000
+      internalID: 7854414000946796336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-andar_7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 173
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13116d43d8069b360800000000000000
+      internalID: 7185880840039436593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-andar_8
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 164
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80aece135cb179730800000000000000
+      internalID: 4005700927329462792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-andar_9
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 11
+        width: 191
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684c00b36e26450c0800000000000000
+      internalID: -4587933379411786618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-andar_10
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 170
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0bfcda96b224fe0800000000000000
+      internalID: -1206354017294241588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-andar_11
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 164
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ccfda3237a55710800000000000000
+      internalID: 1681433870070697101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-andar_12
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 167
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa55694c0bf399bd0800000000000000
+      internalID: -2622995279521622614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-andar_13
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 11
+        width: 188
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7452fcdbfdd76f070800000000000000
+      internalID: 8139831776434398535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-andar_14
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 167
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171c10169f1a7c990800000000000000
+      internalID: -7365740573094723215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-andar_15
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 8
+        width: 194
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0d9c4a09945b030800000000000000
+      internalID: 3509792370193977547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tchuco-andar_16
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 170
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c62c6e53c019bf60800000000000000
+      internalID: 8050484240190285506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tchuco-andar_0: 5841191794644953346
+      tchuco-andar_1: -5622959177922294660
+      tchuco-andar_10: -1206354017294241588
+      tchuco-andar_11: 1681433870070697101
+      tchuco-andar_12: -2622995279521622614
+      tchuco-andar_13: 8139831776434398535
+      tchuco-andar_14: -7365740573094723215
+      tchuco-andar_15: 3509792370193977547
+      tchuco-andar_16: 8050484240190285506
+      tchuco-andar_2: 2552223480874901984
+      tchuco-andar_3: -7899995132711958907
+      tchuco-andar_4: 7218416028452901404
+      tchuco-andar_5: -1649770760839356635
+      tchuco-andar_6: 7854414000946796336
+      tchuco-andar_7: 7185880840039436593
+      tchuco-andar_8: 4005700927329462792
+      tchuco-andar_9: -4587933379411786618
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

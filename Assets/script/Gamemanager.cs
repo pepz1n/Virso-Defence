@@ -27,7 +27,9 @@ public class Gamemanager : MonoBehaviour
             Mathf.Infinity, TileMask);
 
         foreach (Transform tile in tiles)
+        {
             tile.GetComponent<SpriteRenderer>().enabled = false;
+        }
         
         if (hit.collider && currentPlant)
         {
@@ -36,7 +38,7 @@ public class Gamemanager : MonoBehaviour
 
             if (Input.GetMouseButtonDown(0) &&  hit.collider.GetComponent<Tile>().hasPlant == false)
             {
-                Instantiate(currentPlant, hit.collider.transform.position, Quaternion.identity);
+                Instantiate(currentPlant, hit.collider.transform.position, Quaternion.identity, hit.collider.transform);
                 hit.collider.GetComponent<Tile>().hasPlant = true;
                 currentPlant = null;
                 CurrentPlantSprite = null;

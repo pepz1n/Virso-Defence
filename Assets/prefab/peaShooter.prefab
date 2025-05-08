@@ -44,6 +44,7 @@ GameObject:
   - component: {fileID: 4116097044691707005}
   - component: {fileID: -3116888251631044665}
   - component: {fileID: -7370620239049113281}
+  - component: {fileID: 4030983427237916911}
   m_Layer: 9
   m_Name: peaShooter
   m_TagString: Untagged
@@ -111,7 +112,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 2944887515611667038, guid: d7b7939fba5ca9a46a9a1614a425d988, type: 3}
+  m_Sprite: {fileID: 3751651218616276926, guid: 40bb49708d376fb4d8228746da007f1b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -136,7 +137,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bullet: {fileID: 5244028383555004363, guid: 378efe458bb4bc7418f28c0fb2deecbd, type: 3}
   shootOrigin: {fileID: 6158679246252685655}
-  cooldown: 2
+  cooldown: 1.04
   range: 20.01
   shootMask:
     serializedVersion: 2
@@ -192,7 +193,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1.02}
+    oldSize: {x: 1.0433333, y: 1.5116417}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -200,3 +201,25 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1.02}
   m_EdgeRadius: 0
+--- !u!95 &4030983427237916911
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8480177265575051149}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: b1e5446132d02ac489738452cb112e25, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0

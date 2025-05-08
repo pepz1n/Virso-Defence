@@ -13,9 +13,13 @@ MonoBehaviour:
   m_Name: Default
   m_EditorClassIdentifier: 
   health: 10
-  speed: 0.005
+  speed: 0.2
   damage: 2
   range: 0.5
   eatCooldown: 1
   sprite: {fileID: -5782521184205631276, guid: f14ea924480e94a4e912bf652e43875a, type: 3}
   DeathSprite: {fileID: 386325449022280302, guid: b135bb9578eb3a64daa50680ee85e3a6, type: 3}
+  animator: {fileID: 9100000, guid: 581eda2436d632e4b90b2d31afad9811, type: 2}
+  walkAnimation: isWalking
+  attackAnimation: Attack
+  deathAnimation: Die

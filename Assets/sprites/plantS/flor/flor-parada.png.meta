@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d7b7939fba5ca9a46a9a1614a425d988
+guid: 200b8bbb82b717e4782a397d9c397dd0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2944887515611667038
-    second: peaShooter_0
+      213: -5014926367304416601
+    second: flor-parada_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 250
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: peaShooter_0
+      name: flor-parada_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 78
         y: 0
-        width: 100
-        height: 102
+        width: 217
+        height: 461
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e5a148fb7975ed820800000000000000
-      internalID: 2944887515611667038
+      spriteID: 7a284160a07676ab0800000000000000
+      internalID: -5014926367304416601
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      peaShooter_0: 2944887515611667038
+      flor-parada_0: -5014926367304416601
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
